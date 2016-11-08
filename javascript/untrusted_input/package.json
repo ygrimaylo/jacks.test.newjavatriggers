@@ -1,0 +1,24 @@
+{
+  "name": "test.javascript",
+  "version": "0.0.1",
+  "description": "test javascript",
+  "main": "index.js",  
+  "dependencies": {
+    "body-parser": "latest",
+    "bson": "latest",
+    "connect-redis": "latest",
+    "dotenv": "latest",
+    "ejs": "latest",
+    "express": "latest",
+    "express-session": "latest",
+    "helmet": "latest",
+    "mongodb": "latest",
+    "mongojs": "latest",
+    "mongoose": "latest",
+    "mongoose-mass-assign": "latest",
+    "promised-mongo": "latest",
+    "redis": "latest",
+    "sendgrid": "latest",
+    "validator": "latest"
+  }
+}
